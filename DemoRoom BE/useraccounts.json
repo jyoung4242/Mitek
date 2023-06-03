@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "Mookie",
+      "name": "Mookie Longbottom",
+      "password": "asdfasdf"
+    },
+    {
+      "username": "Bob",
+      "name": "Bobz Youruncle",
+      "password": "1234"
+    },
+    { "username": "Tad", "name": "Tad Heckaman", "password": "asdf" },
+    { "username": "Zaphod", "name": "Zaphod Beeblebrox", "password": "42" }
+  ]
+}

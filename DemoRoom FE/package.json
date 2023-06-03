@@ -1,0 +1,27 @@
+{
+  "name": "demoroom-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@peasy-lib/peasy-assets": "^0.2.3",
+    "@peasy-lib/peasy-input": "^0.2.0",
+    "@peasy-lib/peasy-ui": "^0.9.38",
+    "axios": "^1.3.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "json": "^11.0.0",
+    "typescript": "^5.0.4",
+    "vite": "^4.2.1"
+  }
+}

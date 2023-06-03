@@ -1,0 +1,10 @@
+{
+  "event1": {
+    "title": "Connect To Camera",
+    "callback": "connectToCamera"
+  },
+  "event2": {
+    "title": "Mute Remote Mic",
+    "callback": "muteMic"
+  }
+}
